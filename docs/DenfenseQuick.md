@@ -24,8 +24,11 @@ I used the websiite called [Wix](https://www.wix.com/) where it offers free web 
 
 ## Project Language(s), Software, and Hardware
 -Html
+
 -CSS
+
 -Javascript
+
 -Velo APIs
 
 ## Project Requirements
