@@ -98,8 +98,10 @@ Test Case-5
 ![Test Case 5](/media/testPlanMedia/TestCase5.png)
 
 ## Challenges Overcome
+The challenges that I had to overcome is building a website in general and making it work the way you want to. I also had to learn how to use the platform Velo which works similary to the development platform Apache Netbeans. I was able to overcome the challenge of hosting my website by using Wix which hosted the site for free and even has integrated code snippets and API's for you to use.
 
 ## Future Enhancements
+A future enhancement that I would like to do is to flesh out an admin page so the admin doesn't have to go to the dashboard of Wix and can just do things on the admin side from the website itself.
 
 ## Defense Presentation Slides
 
