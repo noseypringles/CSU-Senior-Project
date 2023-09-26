@@ -2,7 +2,7 @@ CSCI 499 Defense Documentation
 =============================
 **Project Title: Oly's Sewing Website**
 
-**Date: 15 Sept. 2023**
+**Date: 11 Dec. 2023**
 
 **Name: Karina Quick**
 
@@ -32,14 +32,70 @@ I used the websiite called [Wix](https://www.wix.com/) where it offers free web 
 -Velo APIs
 
 ## Project Requirements
-- [Click here for the link to the Project Requirements document ](/docs/FunctionalRequirementsQuick.docx)
+- [Project Requirements document](/docs/FunctionalRequirementsQuick.docx)
 
 ## Project Implementation Description & Explanation
 The source code was written in Wix app. To check the code, please visit the website, go to developer tools, and then source. [Click here](https://karinaquick.wixsite.com/oquickdesign/)
 
 ## Test Plan
+-[Test Plan](/tests/TestCase_seniorProj.xlsx)
 
 ## Test Results
+These figures corresponds with the test cases and is labeled after them.
+
+Test Case-1
+[!Test Case 1](/media/testPlanMedia/TestCase1.png)
+
+Test Case-1.1
+[!Test Case 1.1](/media/testPlanMedia/TestCase1.1.png)
+
+Test Case-1.2
+[!Test Case 1.2](/media/testPlanMedia/TestCase1.2.png)
+
+Test Case-1.3
+[!Test Case 1.3](/media/testPlanMedia/TestCase1.3.png)
+
+Test Case-2
+[!Test Case 2](/media/testPlanMedia/TestCase2.png)
+
+Test Case-2.3
+[!Test Case 2.3](/media/testPlanMedia/TestCase2.3.png)
+
+Test Case-2.3
+[!Test Case 2.3](/media/testPlanMedia/TestCase2.3.1.png)
+
+Test Case-3
+[!Test Case 3](/media/testPlanMedia/TestCase3.png)
+
+Test Case-3.2
+[!Test Case 3.2](/media/testPlanMedia/TestCase3.2.png)
+
+Test Case-4
+[!Test Case 1](/media/testPlanMedia/TestCase4.png)
+
+Test Case-4
+[!Test Case 4](/media/testPlanMedia/TestCase4-1.png)
+
+Test Case-4
+[!Test Case 4](/media/testPlanMedia/TestCase4-2.png)
+
+Test Case-4
+[!Test Case 4](/media/testPlanMedia/TestCase4-3.png)
+
+Test Case-4.1
+[!Test Case 4.1](/media/testPlanMedia/TestCase4.1.png)
+
+Test Case4.1
+[!Test Case 4.1](/media/testPlanMedia/TestCase4.1.1.png)
+
+Test Case-4.2
+[!Test Case 4.2](/media/testPlanMedia/TestCase4.2.png)
+
+Test Case-4.3
+[!Test Case 4.3](/media/testPlanMedia/TestCase4.3.png)
+
+Test Case-5
+[!Test Case 5](/media/testPlanMedia/TestCase5.png)
 
 ## Challenges Overcome
 
