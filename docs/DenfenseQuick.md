@@ -20,7 +20,9 @@ The problem is that the client only has Facebook as a way of communication and p
 The solution to the problem is to make an e-commerce website for the client’s business for the customers to browse through the premade products in stock and see past products that were made. This also facilitates transactions between the client and their customers since multiple transactions from different customers can happen at the same time compared to only making one transaction at a time when meeting face-to-face. The website provides a faster way of shopping for the customers since everything will be a click away wherever they are located and gives more time to the client in order to focus on making the products.
 
 ## Research & Background
-I used the websiite called [Wix](https://www.wix.com/) where it offers free web hosting and a built in open development platform called Velo. I watched videos and studied how to use the platform and applied what I learned into my website. I did research on e-commerce websites and read about what made them successful, how to make it look appealing, and what the basic needs are for the website to be easy to use. 
+I used the website called [Wix](https://www.wix.com/) where it offers free web hosting and a built-in open development platform called Velo. I watched videos and studied how to use the platform and applied what I learned into my website. I did research on e-commerce websites and read about what made them successful, how to make it look appealing, and what the basic needs are for the website to be easy to use. 
+
+I had some previous background with working with websites for Systems Analysis & Software Design class but had used the site infinityfree.com.
 
 ## Project Language(s), Software, and Hardware
 -Html
@@ -38,7 +40,7 @@ I used the websiite called [Wix](https://www.wix.com/) where it offers free web 
 The source code was written in Wix app. To check the code, please visit the website, go to developer tools, and then source. [Click here](https://karinaquick.wixsite.com/oquickdesign/)
 
 ## Test Plan
--[Test Plan](/tests/TestCase_seniorProj.xlsx)
+-[Test Case](/tests/TestCase_seniorProj.xlsx)
 
 ## Test Results
 These figures corresponds with the test cases and is labeled after them.
@@ -98,10 +100,11 @@ Test Case-5
 ![Test Case 5](/media/testPlanMedia/TestCase5.png)
 
 ## Challenges Overcome
-The challenges that I had to overcome is building a website in general and making it work the way you want to. I also had to learn how to use the platform Velo which works similary to the development platform Apache Netbeans. I was able to overcome the challenge of hosting my website by using Wix which hosted the site for free and even has integrated code snippets and API's for you to use.
+The challenges that I had to overcome is building a website in general and making it work the way you want to. I also had to learn how to use the platform Velo which works similary to the development platform Apache Netbeans. I was able to overcome the challenge of hosting my website by using Wix which hosted the site for free and even has integrated code snippets and APIs for you to use.
 
 ## Future Enhancements
 A future enhancement that I would like to do is to flesh out an admin page so the admin doesn't have to go to the dashboard of Wix and can just do things on the admin side from the website itself.
 
 ## Defense Presentation Slides
+[Defense Presentation](/docs/defensePresentation.pptx)
 
