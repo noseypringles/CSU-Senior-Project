@@ -55,13 +55,13 @@ The user can add to cart where a sidemenu will pop up with a display of the user
 From the cart page, the products that are in cart, order summary and total are displayed. The user have the options to checkout, paypal or pay later.
 ![Test Case 1.3](/media/testPlanMedia/TestCase1.3.png)
 
-Test Case-2
+The About Us page is navigated to by clicking the about us button on the naviagtion bar. Here, the street address of the business along with a map where the user can get directions are displayed. Below the address are two icons which will redirect the user to the owner of the business social medias. On the right side of the page is a form box.
 ![Test Case 2](/media/testPlanMedia/TestCase2.png)
 
-Test Case-2.3
+In the from box, the user can fill out their information to get in contact with the owner which sends an email to them.
 ![Test Case 2.3](/media/testPlanMedia/TestCase2.3.png)
 
-Test Case-2.3
+Here is a email that was sent after the form box was filled. The email gives the option to the owner to respond to the email directly or via the site's inbox.
 ![Test Case 2.3](/media/testPlanMedia/TestCase2.3.1.png)
 
 Test Case-3
