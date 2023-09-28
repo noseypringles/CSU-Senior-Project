@@ -40,7 +40,7 @@ I had some previous background with working with websites for Systems Analysis &
 The source code was written in Wix app. To check the code, please visit the website, go to developer tools, and then source. [Click here](https://karinaquick.wixsite.com/oquickdesign/)
 
 ## Test Plan
--[Test Case](/tests/TestCase_seniorProj.xlsx)
+- [Test Case](/tests/TestCase_seniorProj.xlsx)
 
 ## Test Results
 When the user first goes to the website, they are directed to the Shop page which also acts as the home page. Here the user can view the products that are for sale and able to see if the product is a new arrival, on sale, or sold out.
