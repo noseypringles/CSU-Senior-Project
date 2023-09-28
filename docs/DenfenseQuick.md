@@ -70,32 +70,33 @@ The Portfolio page is accessed by the navigation bar. Here, the projects are on 
 Once the user clicks on a project, they are directed to a more detailed page of the project. It displays the title, description, and project type or medium along with the picture of the project on a bigger scale.
 ![Test Case 3.2](/media/testPlanMedia/TestCase3.2.png)
 
-Test Case-4
-![Test Case 1](/media/testPlanMedia/TestCase4.png)
+The Log In page can be naviagted to by clicking on the login button on any page which is diplayed in the top left corner above the navigation bar. Once clicked on, the user is directed to the Log In page where they are asked to log in with Google, Facebook or email. If the user does not have an account, they will click the Sign Up button which is located beneath the Log In header.
+![Test Case 4](/media/testPlanMedia/TestCase4.png)
 
-Test Case-4
+Upon clicking the Sign Up button, the user is able to go back to Log In page, sign up with Google, Facebook, or email.
 ![Test Case 4](/media/testPlanMedia/TestCase4-1.png)
 
-Test Case-4
+In this case, the user clicked sign up with email and is prompted to enter an email and password.
 ![Test Case 4](/media/testPlanMedia/TestCase4-2.png)
 
-Test Case-4
+When an account has already been made, the user cannot sign up again if the email still exists in the database. An error message will be displayed.
+![Test Case 4.3](/media/testPlanMedia/TestCase4.3.png)
+
+After a user signs up, they are prompted to confirm their email by entering a 6-digit code. The user must confirm their email or they will not be able to login.
 ![Test Case 4](/media/testPlanMedia/TestCase4-3.png)
 
-Test Case-4.1
-![Test Case 4.1](/media/testPlanMedia/TestCase4.1.png)
-
-Test Case4.1
-![Test Case 4.1](/media/testPlanMedia/TestCase4.1.1.png)
-
+Returning users can go to the Log In page and log in. Here, the user had clicked Log in with email.
 Test Case-4.2
 ![Test Case 4.2](/media/testPlanMedia/TestCase4.2.png)
 
-Test Case-4.3
-![Test Case 4.3](/media/testPlanMedia/TestCase4.3.png)
-
-Test Case-5
+Entering incorrect information, an error will display under where the user entered the wrong information.
 ![Test Case 5](/media/testPlanMedia/TestCase5.png)
+
+A user who is logged in can view more details of their account when they click their username on the top left corner above the navigation bar. Here, it list the options of Profile, My Orders, My Addresses, My Wallet, My Account, and Log Out.
+![Test Case 4.1](/media/testPlanMedia/TestCase4.1.png)
+
+This displays a user after they clicked My Account. From this page, the user can update their contact information.
+![Test Case 4.1](/media/testPlanMedia/TestCase4.1.1.png)
 
 ## Challenges Overcome
 The challenges that I had to overcome is building a website in general and making it work the way you want to. I also had to learn how to use the platform Velo which works similary to the development platform Apache Netbeans. I was able to overcome the challenge of hosting my website by using Wix which hosted the site for free and even has integrated code snippets and APIs for you to use.
