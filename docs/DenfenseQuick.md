@@ -43,18 +43,16 @@ The source code was written in Wix app. To check the code, please visit the webs
 -[Test Case](/tests/TestCase_seniorProj.xlsx)
 
 ## Test Results
-These figures corresponds with the test cases and is labeled after them.
-
-Test Case-1
+When the user first goes to the website, they are directed to the Shop page which also acts as the home page. Here the user can view the products that are for sale and able to see if the product is a new arrival, on sale, or sold out.
 ![Test Case 1](/media/testPlanMedia/TestCase1.png)
 
-Test Case-1.1
-![Test Case 1.1](/media/testPlanMedia/TestCase1.1.png)
-
-Test Case-1.2
+The user then can click on a product and the site will direct the user to the product page which displays more detail about the product and the price.
 ![Test Case 1.2](/media/testPlanMedia/TestCase1.2.png)
 
-Test Case-1.3
+The user can add to cart where a sidemenu will pop up with a display of the users cart along with the subtotal. From this page, the user can naviagte to the cart page by clicking the view cart button.
+![Test Case 1.1](/media/testPlanMedia/TestCase1.1.png)
+
+From the cart page, the products that are in cart, order summary and total are displayed. The user have the options to checkout, paypal or pay later.
 ![Test Case 1.3](/media/testPlanMedia/TestCase1.3.png)
 
 Test Case-2
