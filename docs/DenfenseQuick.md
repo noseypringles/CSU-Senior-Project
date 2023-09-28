@@ -86,7 +86,6 @@ After a user signs up, they are prompted to confirm their email by entering a 6-
 ![Test Case 4](/media/testPlanMedia/TestCase4-3.png)
 
 Returning users can go to the Log In page and log in. Here, the user had clicked Log in with email.
-Test Case-4.2
 ![Test Case 4.2](/media/testPlanMedia/TestCase4.2.png)
 
 Entering incorrect information, an error will display under where the user entered the wrong information.
