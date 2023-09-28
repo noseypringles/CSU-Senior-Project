@@ -44,55 +44,88 @@ The source code was written in Wix app. To check the code, please visit the webs
 
 ## Test Results
 When the user first goes to the website, they are directed to the Shop page which also acts as the home page. Here the user can view the products that are for sale and able to see if the product is a new arrival, on sale, or sold out.
+
 ![Test Case 1](/media/testPlanMedia/TestCase1.png)
 
+
 The user then can click on a product and the site will direct the user to the product page which displays more detail about the product and the price.
+
 ![Test Case 1.2](/media/testPlanMedia/TestCase1.2.png)
 
+
 The user can add to cart where a sidemenu will pop up with a display of the users cart along with the subtotal. From this page, the user can naviagte to the cart page by clicking the view cart button.
+
 ![Test Case 1.1](/media/testPlanMedia/TestCase1.1.png)
 
+
 From the cart page, the products that are in cart, order summary and total are displayed. The user have the options to checkout, paypal or pay later.
+
 ![Test Case 1.3](/media/testPlanMedia/TestCase1.3.png)
 
+
 The About Us page is navigated to by clicking the about us button on the naviagtion bar. Here, the street address of the business along with a map where the user can get directions are displayed. Below the address are two icons which will redirect the user to the owner of the business social medias. On the right side of the page is a form box.
+
 ![Test Case 2](/media/testPlanMedia/TestCase2.png)
 
+
 In the from box, the user can fill out their information to get in contact with the owner which sends an email to them.
+
 ![Test Case 2.3](/media/testPlanMedia/TestCase2.3.png)
 
+
 Here is a email that was sent after the form box was filled. The email gives the option to the owner to respond to the email directly or via the site's inbox.
+
 ![Test Case 2.3](/media/testPlanMedia/TestCase2.3.1.png)
 
+
 The Portfolio page is accessed by the navigation bar. Here, the projects are on displayed and a timed slideshow.
+
 ![Test Case 3](/media/testPlanMedia/TestCase3.png)
 
+
 Once the user clicks on a project, they are directed to a more detailed page of the project. It displays the title, description, and project type or medium along with the picture of the project on a bigger scale.
+
 ![Test Case 3.2](/media/testPlanMedia/TestCase3.2.png)
 
+
 The Log In page can be naviagted to by clicking on the login button on any page which is diplayed in the top left corner above the navigation bar. Once clicked on, the user is directed to the Log In page where they are asked to log in with Google, Facebook or email. If the user does not have an account, they will click the Sign Up button which is located beneath the Log In header.
+
 ![Test Case 4](/media/testPlanMedia/TestCase4.png)
 
+
 Upon clicking the Sign Up button, the user is able to go back to Log In page, sign up with Google, Facebook, or email.
+
 ![Test Case 4](/media/testPlanMedia/TestCase4-1.png)
 
+
 In this case, the user clicked sign up with email and is prompted to enter an email and password.
+
 ![Test Case 4](/media/testPlanMedia/TestCase4-2.png)
 
+
 When an account has already been made, the user cannot sign up again if the email still exists in the database. An error message will be displayed.
+
 ![Test Case 4.3](/media/testPlanMedia/TestCase4.3.png)
 
+
 After a user signs up, they are prompted to confirm their email by entering a 6-digit code. The user must confirm their email or they will not be able to login.
+
 ![Test Case 4](/media/testPlanMedia/TestCase4-3.png)
 
+
 Returning users can go to the Log In page and log in. Here, the user had clicked Log in with email.
+
 ![Test Case 4.2](/media/testPlanMedia/TestCase4.2.png)
 
+
 Entering incorrect information, an error will display under where the user entered the wrong information.
+
 ![Test Case 5](/media/testPlanMedia/TestCase5.png)
+
 
 A user who is logged in can view more details of their account when they click their username on the top left corner above the navigation bar. Here, it list the options of Profile, My Orders, My Addresses, My Wallet, My Account, and Log Out.
 ![Test Case 4.1](/media/testPlanMedia/TestCase4.1.png)
+
 
 This displays a user after they clicked My Account. From this page, the user can update their contact information.
 ![Test Case 4.1](/media/testPlanMedia/TestCase4.1.1.png)
