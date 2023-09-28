@@ -64,10 +64,10 @@ In the from box, the user can fill out their information to get in contact with 
 Here is a email that was sent after the form box was filled. The email gives the option to the owner to respond to the email directly or via the site's inbox.
 ![Test Case 2.3](/media/testPlanMedia/TestCase2.3.1.png)
 
-Test Case-3
+The Portfolio page is accessed by the navigation bar. Here, the projects are on displayed and a timed slideshow.
 ![Test Case 3](/media/testPlanMedia/TestCase3.png)
 
-Test Case-3.2
+Once the user clicks on a project, they are directed to a more detailed page of the project. It displays the title, description, and project type or medium along with the picture of the project on a bigger scale.
 ![Test Case 3.2](/media/testPlanMedia/TestCase3.2.png)
 
 Test Case-4
