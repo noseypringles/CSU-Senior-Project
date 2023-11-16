@@ -37,7 +37,7 @@ I had some previous background with working with websites for Systems Analysis &
 - [Project Requirements document](/docs/FunctionalRequirementsQuick.docx)
 
 ## Project Implementation Description & Explanation
-The source code was written in Wix app. To check the code, please visit the website, go to developer tools, and then source. [Click here](https://karinaquick.wixsite.com/oquickdesign/)
+The source code was written in Wix app. To check the code, please visit the website, go to developer tools, and then source. Another way is to right click on the website and click inspect element. [Click here](https://karinaquick.wixsite.com/oquickdesign/)
 
 ## Test Plan
 - [Test Case](/tests/TestCase_seniorProj.xlsx)
